@@ -1,0 +1,295 @@
+{
+  "annual_fee": {
+    "voice": [
+      "The {full_card_name} has an annual fee of {annual_fee}.",
+      "{company_name} does not disclose the annual fee for the {full_card_name}.",
+      "The {full_card_name} has no annual fee."
+    ],
+    "chips": [
+      "Apply for this card",
+      "Rewards for this card",
+      "Compare cards",
+      "Save this card",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or compare with another card?"
+  },
+  "balance_transfer_apr": {
+    "voice": [
+      "The {full_card_name} has a balance transfer A P R of {balance_transfer_apr}.",
+      "{company_name} does not disclose the balance transfer A P R for the {full_card_name}."
+    ],
+    "chips": [
+      "Apply for this card",
+      "Rewards for this card",
+      "Compare cards",
+      "Save this card",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or compare with another card?"
+  },
+  "balance_transfer_fee": {
+    "voice": [
+      "The {full_card_name} has a balance transfers fee of {balance_transfer_fee}.",
+      "{company_name} does not disclose the balance transfers fee for the {full_card_name}."
+    ],
+    "chips": [
+      "Apply for this card",
+      "Rewards for this card",
+      "Compare cards",
+      "Save this card",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or compare with another card?"
+  },
+  "cash_advance_apr": {
+    "voice": [
+      "The {full_card_name} has a cash advance A P R of {cash_advance_apr}.",
+      "{company_name} does not disclose the cash advance A P R for the {full_card_name}."
+    ],
+    "chips": [
+      "Apply for this card",
+      "Rewards for this card",
+      "Compare cards",
+      "Save this card",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or compare with another card?"
+  },
+  "cash_advance_fee": {
+    "voice": [
+      "The {full_card_name} has a cash advances fee of {cash_advance_fee}.",
+      "{company_name} does not disclose the cash advances fee for the {full_card_name}."
+    ],
+    "chips": [
+      "Apply for this card",
+      "Rewards for this card",
+      "Compare cards",
+      "Save this card",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or compare with another card?"
+  },
+  "cons": {
+    "voice": [
+      "The {full_card_name} has these cons: {cons}.",
+      "The {full_card_name} has no cons."
+    ],
+    "chips": [
+      "Pros of this card",
+      "Card Report",
+      "Annual fee for this card",
+      "How do I apply",
+      "Start over"
+    ],
+    "followup_question": "Ask me about the pros or ask me how to apply for this card?"
+  },
+  "credit_score": {
+    "voice": [
+      "The {full_card_name} has a recommended credit score range of {credit_score}.",
+      "The {full_card_name} has no recommended credit score range."
+    ],
+    "chips": [
+      "How do I apply",
+      "Compare cards",
+      "Card Report",
+      "Save this card",
+      "Start over"
+    ],
+    "followup_question": "Ask me about the pros or ask me how to apply for this card?"
+  },
+  "foreign_transaction_fee": {
+    "voice": [
+      "The {full_card_name} has a foreign transaction fee of {foreign_transaction_fee}.",
+      "{company_name} does not disclose the foreign transaction fee for the {full_card_name}.",
+      "The {full_card_name} has no foreign transaction fee."
+    ],
+    "chips": [
+      "Apply for this card",
+      "Rewards for this card",
+      "Compare cards",
+      "Save this card",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or ask me to compare other cards?"
+  },
+  "late_payment_fee": {
+    "voice": [
+      "The {full_card_name} has a late payment fee of {late_payment_fee}.",
+      "{company_name} does not disclose the late payment fee for the {full_card_name}."
+    ],
+    "chips": [
+      "APR for this card",
+      "Card Report",
+      "How do I apply",
+      "Save this card",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or ask me to compare other cards?"
+  },
+  "minimum_interest_charge_apr": {
+    "voice": [
+      "The {full_card_name} has a minimum interest charge of {minimum_interest_charge_apr}.",
+      "{company_name} does not disclose the minimum interest charge for the {full_card_name}.",
+      "The {full_card_name} has no minimum interest charge."
+    ],
+    "chips": [
+      "Apply for this card",
+      "Rewards for this card",
+      "Compare cards",
+      "Save this card",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or ask me to compare other cards?"
+  },
+  "over_limit_fee": {
+    "voice": [
+      "The {full_card_name} has a over limit fee of {over_limit_fee}.",
+      "{company_name} does not disclose the over limit fee for the {full_card_name}.",
+      "The {full_card_name} has no over limit fee."
+    ],
+    "chips": [
+      "Apply for this card",
+      "Rewards for this card",
+      "Compare cards",
+      "Save this card",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or ask me to compare other cards?"
+  },
+  "penalty_apr": {
+    "voice": [
+      "The {full_card_name} has a penalty A P R of {penalty_apr}.",
+      "{company_name} does not disclose the penalty A P R for the {full_card_name}.",
+      "The {full_card_name} has no penalty A P R."
+    ],
+    "chips": [
+      "How do I apply",
+      "Compare cards",
+      "Card Report",
+      "Save this card",
+      "What is the late fee?",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or ask me to compare other cards?"
+  },
+  "pros": {
+    "voice": [
+      "The {full_card_name} has these pros: {pros}",
+      "The {full_card_name} has no pros."
+    ],
+    "chips": [
+      "Cons of this card",
+      "How do I apply",
+      "Card Report",
+      "APR of this card",
+      "Compare cards",
+      "Start over"
+    ],
+    "followup_question": "Ask me about the cons of this card, or ask me how to apply?"
+  },
+  "purchase_apr": {
+    "voice": [
+      "The {full_card_name} has a purchase A P R of {purchase_apr}.",
+      "{company_name} does not disclose the purchase A P R for the {full_card_name}."
+    ],
+    "chips": [
+      "How do I apply",
+      "Compare cards",
+      "Card Report",
+      "Save this card",
+      "What is the late fee?",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or ask me to compare other cards?"
+  },
+  "redeem": {
+    "voice": [
+      "The {full_card_name} has rewards that can be redeemed this way: {redeem}.",
+      "The {full_card_name} information on redeeming is on their website. Click apply now to go to the site to check it out."
+    ],
+    "chips": [
+      "How do I apply",
+      "Compare cards",
+      "Save this card",
+      "What is the sign-on bonus?",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or ask me to compare other cards?"
+  },
+  "returned_check_fee": {
+    "voice": [
+      "The {full_card_name} has a returned check fee of {returned_check_fee}.",
+      "{company_name} does not disclose the returned check fee for the {full_card_name}.",
+      "The {full_card_name} has no returned check fee."
+    ],
+    "chips": [
+      "How do I apply",
+      "Compare cards",
+      "Save this card",
+      "What is the sign-on bonus?",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or ask me to compare other cards?"
+  },
+  "returned_payment_fee": {
+    "voice": [
+      "The {full_card_name} has a returned payment fee of {returned_payment_fee}.",
+      "{company_name} does not disclose the returned payment fee for the {full_card_name}.",
+      "The {full_card_name} has no returned payment fee."
+    ],
+    "chips": [
+      "How do I apply",
+      "Compare cards",
+      "Save this card",
+      "What is the sign-on bonus?",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or ask me to compare other cards?"
+  },
+  "bonus_offer": {
+    "voice": [
+      "The {full_card_name} has the following bonus offer value: {bonus_offer_value}.",
+      "The {full_card_name} has no bonus offer value."
+    ],
+    "chips": [
+      "How do I apply",
+      "Compare cards",
+      "Card Report",
+      "Save this card",
+      "What is the late fee?",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or ask me to compare other cards?"
+  },
+  "rewards_rate": {
+    "voice": [
+      "The {full_card_name} has a rewards rate value of {rewards_rate_value}.",
+      "{full_card_name} does not have a rewards rate value."
+      ],
+    "chips": [
+      "How do I apply",
+      "Compare cards",
+      "Card Report",
+      "Save this card",
+      "What is the late fee?",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or ask me to compare other cards?"
+  },
+  "score_response": {
+    "voice": [
+      "The {full_card_name} has a CardScore of {score} out of 100. We looked at many cards and rated them after comparing the terms, complaint data, reviews.",
+      "The {full_card_name} has no score yet."
+    ],
+    "chips": [
+      "How do I apply",
+      "Compare cards",
+      "Card Report",
+      "Save this card",
+      "What is the late fee?",
+      "Start over"
+    ],
+    "followup_question": "Ask me how to apply for this card, or ask me to compare other cards?"
+  }
+}

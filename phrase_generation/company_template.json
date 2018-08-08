@@ -1,0 +1,107 @@
+{
+  "billing_and_payment_quality": {
+    "voice": [
+      "Our research found that {company_name} is pretty bad at handling billing and accepting payments.",
+      "Our research found that {company_name} is below average at handling billing and accepting payments.",
+      "Our research found that {company_name} is about average at handling billing and accepting payments.",
+      "Our research found that {company_name} is good at handling billing and accepting payments.",
+      "Our research found that {company_name} is excellent at handling billing and accepting payments."
+    ],
+    "chips": [
+      ["Cards from this issuer", "Browse Cards", "Compare Cards"],
+      ["Compare Cards", "Best Cashback", "Find a Card"],
+      ["Find a Card", "Fast Search", "Browse Cards"],
+      ["Compare Cards", "Find a Card", "Fast Search"],
+      ["Browse Cards", "Compare Cards", "Fast Search"]
+    ],
+    "followup_question": "Ask me about cards from this issuer, or browse cards by category?"
+  },
+  "overall_satisfaction": {
+    "voice": [
+      "Our research found that the overall customer satisfaction for {company_name} is pretty bad.",
+      "Our research found that the overall customer satisfaction for {company_name} is below average.",
+      "Our research found that the overall customer satisfaction for {company_name} is about average.",
+      "Our research found that the overall customer satisfaction for {company_name} is good.",
+      "Our research found that the overall customer satisfaction for {company_name} is excellent."
+    ],
+    "chips": [
+      ["Cards from this issuer", "Browse Cards", "Compare Cards"],
+      ["Compare Cards", "Best Cashback", "Find a Card"],
+      ["Find a Card", "Fast Search", "Browse Cards"],
+      ["Compare Cards", "Find a Card", "Fast Search"],
+      ["Browse Cards", "Compare Cards", "Fast Search"]
+    ],
+    "followup_question": "Ask me about cards from this issuer, or browse cards by category?"
+  },
+  "customer_service": {
+    "voice": [
+      "Our research found that {company_name}'s customer service is pretty bad.",
+      "Our research found that {company_name}'s customer service is below average.",
+      "Our research found that {company_name}'s customer service is about average.",
+      "Our research found that {company_name}'s customer service is good.",
+      "Our research found that {company_name}'s customer service is excellent."
+    ],
+    "chips": [
+      ["Cards from this issuer", "Browse Cards", "Compare Cards"],
+      ["Compare Cards", "Best Cashback", "Find a Card"],
+      ["Find a Card", "Fast Search", "Browse Cards"],
+      ["Compare Cards", "Find a Card", "Fast Search"],
+      ["Browse Cards", "Compare Cards", "Fast Search"]
+    ],
+    "followup_question": "Ask me about cards from this issuer, or browse cards by category?"
+  },
+  "name": [
+    "{company_name} issues {full_card_name}"
+    ],
+  "rewards_quality": {
+    "voice": [
+      "Our research found that {company_name}'s rewards quality is pretty bad.",
+      "Our research found that {company_name}'s rewards quality is below average.",
+      "Our research found that {company_name}'s rewards quality is about average.",
+      "Our research found that {company_name}'s rewards quality is good.",
+      "Our research found that {company_name}'s rewards quality is excellent."
+    ],
+    "chips": [
+      ["Cards from this issuer", "Browse Cards", "Compare Cards"],
+      ["Compare Cards", "Best Cashback", "Find a Card"],
+      ["Find a Card", "Fast Search", "Browse Cards"],
+      ["Compare Cards", "Find a Card", "Fast Search"],
+      ["Browse Cards", "Compare Cards", "Fast Search"]
+    ],
+    "followup_question": "Ask me about cards from this issuer, or browse cards by category?"
+  },
+  "credit_card_terms": {
+    "voice": [
+      "Our research found that {company_name}'s credit card terms are pretty bad.",
+      "Our research found that {company_name}'s credit card terms are below average.",
+      "Our research found that {company_name}'s credit card terms are about average.",
+      "Our research found that {company_name}'s credit card terms are good.",
+      "Our research found that {company_name}'s credit card terms are excellent."
+    ],
+    "chips": [
+      ["Cards from this issuer", "Browse Cards", "Compare Cards"],
+      ["Compare Cards", "Best Cashback", "Find a Card"],
+      ["Find a Card", "Fast Search", "Browse Cards"],
+      ["Compare Cards", "Find a Card", "Fast Search"],
+      ["Browse Cards", "Compare Cards", "Fast Search"]
+    ],
+    "followup_question": "Ask me about cards from this issuer, or browse cards by category?"
+  },
+  "problem_resolution": {
+    "voice": [
+      "Our research found that {company_name}'s problem resolution is pretty bad.",
+      "Our research found that {company_name}'s problem resolution is below average.",
+      "Our research found that {company_name}'s problem resolution is about average.",
+      "Our research found that {company_name}'s problem resolution is good.",
+      "Our research found that {company_name}'s problem resolution is excellent."
+    ],
+    "chips": [
+      ["Cards from this issuer", "Browse Cards", "Compare Cards"],
+      ["Compare Cards", "Best Cashback", "Find a Card"],
+      ["Find a Card", "Fast Search", "Browse Cards"],
+      ["Compare Cards", "Find a Card", "Fast Search"],
+      ["Browse Cards", "Compare Cards", "Fast Search"]
+    ],
+    "followup_question": "Ask me about cards from this issuer, or browse cards by category?"
+  }
+}
