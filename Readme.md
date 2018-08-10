@@ -3,6 +3,8 @@ Module for scraping aggregator sites and credit card terms and conditions pages.
 the Summer 2017 scraper in database_editor, although the majority of the code has been changed to make compatible with
 Python 3 and to utilize DynamoDB tables and spreadsheets instead of Graphs.
 
+Link to full documentation : https://docs.google.com/document/d/1XzJsX_yGMLW3sN-9yhLbUWGrSqKokMOryqzwhn0zq9Y/edit#heading=h.av6y7vamki6y .
+
 ________
 SCRAPING
 --------
